@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6I1RZzqYjuM1nPfXOoUE+mMMKqxjGTPjH31DwXs6r2uo6cE+8Zs1WCsbFvFQ31tke9rD4h0bbSiSg4vfjkBvUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\calam\\OneDrive - University of Arizona\\drone project\\droneOCR\\droneOCR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\calam\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\calam\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\calam\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
