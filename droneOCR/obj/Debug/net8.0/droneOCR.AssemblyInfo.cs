@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("droneOCR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f40fbed2c636527b1302584d4dab3eaaa813d385")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f35a48d1acbdd76876c7c0145e4625e334745c85")]
 [assembly: System.Reflection.AssemblyProductAttribute("droneOCR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("droneOCR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
